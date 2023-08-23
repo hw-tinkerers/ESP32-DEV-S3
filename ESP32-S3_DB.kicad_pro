@@ -326,6 +326,14 @@
     [
       "b7fc4bd3-c219-4455-832b-8d795385dcf1",
       ""
+    ],
+    [
+      "4fcab1f4-10cc-47e3-9bc8-be24b657a388",
+      "EXT_FLASH"
+    ],
+    [
+      "efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75",
+      "POWER"
     ]
   ],
   "text_variables": {}
