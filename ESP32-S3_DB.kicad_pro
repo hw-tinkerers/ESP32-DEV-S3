@@ -333,7 +333,15 @@
     ],
     [
       "efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75",
-      "POWER"
+      "3V3 Power"
+    ],
+    [
+      "cd99bb00-fc75-4430-bf94-ba56f480f215",
+      "ESP32-S3-MCU"
+    ],
+    [
+      "95090a63-7b3c-4ea0-92b8-aeafe05264cd",
+      "INPUT POWER"
     ]
   ],
   "text_variables": {}
