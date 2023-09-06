@@ -342,6 +342,10 @@
     [
       "95090a63-7b3c-4ea0-92b8-aeafe05264cd",
       "INPUT POWER"
+    ],
+    [
+      "bf189a9b-22e7-430e-8144-dc6e013a917d",
+      "USB-To-UART"
     ]
   ],
   "text_variables": {}
