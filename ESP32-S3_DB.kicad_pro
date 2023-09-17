@@ -495,6 +495,14 @@
     [
       "9b4afe2f-79e5-4a56-98d7-d16b193c0e70",
       "RS-485"
+    ],
+    [
+      "e2721808-ce0b-4b73-8382-0fd911e1c931",
+      "EXTERNAL CONNECTORS"
+    ],
+    [
+      "5968696a-d1c3-4df1-9868-cceeab327a7d",
+      "CAN TRANSCEIVER"
     ]
   ],
   "text_variables": {}
