@@ -499,6 +499,10 @@
     [
       "5968696a-d1c3-4df1-9868-cceeab327a7d",
       "CAN TRANSCEIVER"
+    ],
+    [
+      "3994ddb3-4428-4f96-b9f4-a7790f668af6",
+      "SD_CARD"
     ]
   ],
   "text_variables": {}
