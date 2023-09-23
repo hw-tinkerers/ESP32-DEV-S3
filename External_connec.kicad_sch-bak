@@ -563,9 +563,7 @@
   )
 
   (no_connect (at 72.39 146.685) (uuid 3eee8aca-4286-4230-bcd3-6845cf19a774))
-  (no_connect (at 72.39 88.265) (uuid 4323c573-cc8e-4f2b-8e85-59bf0c842be5))
   (no_connect (at 72.39 144.145) (uuid de9bee25-a048-4db4-afca-b2c6d1cbf5cc))
-  (no_connect (at 72.39 90.805) (uuid f284fd59-cf96-4f33-b989-a87c4a3057bd))
 
   (wire (pts (xy 193.675 95.25) (xy 206.375 95.25))
     (stroke (width 0) (type default))
