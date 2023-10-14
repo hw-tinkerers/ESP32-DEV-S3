@@ -1352,10 +1352,13 @@
     (property "Arrow Price/Stock" "" (at 85.09 1086.995 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (pin "1" (uuid 24b0d24d-6769-4a14-b202-411b59e6040e))
-    (pin "2" (uuid 0a7c4c5e-26ee-4607-bb80-3cdf9440d735))
-    (pin "3" (uuid 65d30ceb-58aa-4050-9991-cff0e5cbe640))
-    (pin "4" (uuid d2ace4c2-fd5d-4740-80b5-473b86a9f7b4))
+    (property "PN" "PRTR5V0U2X" (at 58.42 92.075 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fc9b9ff3-07d1-46aa-b63e-023796e31528))
+    (pin "2" (uuid 7d941509-d022-46ab-b26d-c9015bf42b55))
+    (pin "3" (uuid 3fbb9917-af4d-47b7-bddb-f6a9ec8b2059))
+    (pin "4" (uuid 390945c6-cb60-456e-af04-597a48fb3f86))
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/95090a63-7b3c-4ea0-92b8-aeafe05264cd"
