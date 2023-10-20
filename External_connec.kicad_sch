@@ -2290,7 +2290,7 @@
     (property "Value" "TYPE-C-31-M12_13" (at 31.115 81.915 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ESP32-S3_Dev_Board:USB-C_SMD-TYPE-C-31-M-12" (at 63.5 94.615 90)
+    (property "Footprint" "ESP32-S3_Dev_Board:tyye_c_connector" (at 63.5 94.615 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2205251630_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf" (at 63.5 76.835 0)
