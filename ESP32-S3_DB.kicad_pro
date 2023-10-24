@@ -503,6 +503,10 @@
     [
       "3994ddb3-4428-4f96-b9f4-a7790f668af6",
       "SD_CARD"
+    ],
+    [
+      "7ada9602-7e0d-4ea4-a634-9a5d8155ae8b",
+      "PCB ATTRIBUTES"
     ]
   ],
   "text_variables": {}

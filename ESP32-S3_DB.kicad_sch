@@ -1082,6 +1082,23 @@
     )
   )
 
+  (sheet (at 99.06 169.545) (size 30.48 20.955)
+    (stroke (width 0.3) (type solid) (color 0 0 0 1))
+    (fill (color 255 255 194 1.0000))
+    (uuid 7ada9602-7e0d-4ea4-a634-9a5d8155ae8b)
+    (property "Sheetname" "PCB ATTRIBUTES" (at 101.6 168.91 0)
+      (effects (font (size 2 2) bold (color 0 0 0 1)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCB_Attributes.kicad_sch" (at 99.06 191.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "ESP32-S3_DB"
+        (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1" (page "10"))
+      )
+    )
+  )
+
   (sheet (at 29.845 28.575) (size 26.67 19.05)
     (stroke (width 0.3) (type solid) (color 0 0 0 1))
     (fill (color 255 255 194 1.0000))
