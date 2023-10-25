@@ -1,4 +1,4 @@
-52610010672773
+57739435720287
 ESP32-S3_Dev_Board
 2P_Screw_Terminal
 
@@ -77,6 +77,20 @@ capacitor
 2
 2
 ESP32-S3_Dev_Board
+DPAK
+
+
+0
+3
+3
+ESP32-S3_Dev_Board
+ESOP-8
+
+
+0
+9
+9
+ESP32-S3_Dev_Board
 ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
 
 
@@ -84,12 +98,19 @@ ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
 9
 9
 ESP32-S3_Dev_Board
-KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4
+JST_2mm
 
 
 0
 4
 4
+ESP32-S3_Dev_Board
+KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4
+
+
+0
+4
+2
 ESP32-S3_Dev_Board
 LED_0603_1608Metric
 LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
@@ -194,7 +215,7 @@ TF-SMD_TF-012
 
 0
 15
-13
+10
 ESP32-S3_Dev_Board
 Test_Pad_1.5mm
 

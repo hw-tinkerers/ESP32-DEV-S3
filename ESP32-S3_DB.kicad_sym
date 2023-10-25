@@ -1917,7 +1917,7 @@
         (name "VOUT" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
-      (pin unspecified line (at 0 7.62 270) (length 5.08)
+      (pin unspecified line (at 0 -15.24 90) (length 5.08)
         (name "EP" (effects (font (size 1.27 1.27))))
         (number "9" (effects (font (size 1.27 1.27))))
       )
