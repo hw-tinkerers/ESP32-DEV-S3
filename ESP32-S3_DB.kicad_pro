@@ -388,7 +388,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "ESP32-S3_Dev_Board"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {

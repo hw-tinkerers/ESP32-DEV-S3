@@ -1,4 +1,4 @@
-57739460759287
+59405693167091
 ESP32-S3_Dev_Board
 2P_Screw_Terminal
 
@@ -146,6 +146,13 @@ Logo Symbol OSHW
 0
 0
 0
+ESP32-S3_Dev_Board
+PinHeader_1x02_P1.27mm_Vertical
+Through hole straight pin header, 1x02, 1.27mm pitch, single row
+Through hole pin header THT 1x02 1.27mm single row
+0
+2
+2
 ESP32-S3_Dev_Board
 PinHeader_1x02_P2.54mm_Vertical
 Through hole straight pin header, 1x02, 2.54mm pitch, single row
