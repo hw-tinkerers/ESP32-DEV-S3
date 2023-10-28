@@ -391,7 +391,9 @@
     "pinned_footprint_libs": [
       "ESP32-S3_Dev_Board"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ESP32-S3_DB"
+    ]
   },
   "meta": {
     "filename": "ESP32-S3_DB.kicad_pro",
