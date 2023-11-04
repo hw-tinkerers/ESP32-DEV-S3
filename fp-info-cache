@@ -1,4 +1,4 @@
-22414510440854130
+22416211722262156
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55054,6 +55054,13 @@ SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR
 0
 6
 6
+ESP32-S3_Dev_Board
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-2
+
+
+0
+8
+8
 ESP32-S3_Dev_Board
 SOP-8_3.9x4.9mm_P1.27mm
 SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py

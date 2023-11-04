@@ -2536,8 +2536,8 @@
     (property "PN" "RC0603JR-070RL" (at 109.855 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5b76d11f-974a-462e-b27e-531947034df1))
-    (pin "2" (uuid e1c71bc5-222a-435b-9550-7470d0567949))
+    (pin "1" (uuid 8659fb2f-1f41-4ac1-a80a-175f71f5ef43))
+    (pin "2" (uuid 973b0378-8cee-4e46-b587-e04fed5b0fd9))
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/95090a63-7b3c-4ea0-92b8-aeafe05264cd"
