@@ -407,6 +407,9 @@
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/7ada9602-7e0d-4ea4-a634-9a5d8155ae8b"
           (reference "H1") (unit 1)
         )
+        (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/f98b3539-fa8a-48eb-9a00-f8d7da317cf1"
+          (reference "H6") (unit 1)
+        )
       )
     )
   )
@@ -431,6 +434,9 @@
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/7ada9602-7e0d-4ea4-a634-9a5d8155ae8b"
           (reference "H3") (unit 1)
         )
+        (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/f98b3539-fa8a-48eb-9a00-f8d7da317cf1"
+          (reference "H7") (unit 1)
+        )
       )
     )
   )
@@ -454,6 +460,9 @@
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/7ada9602-7e0d-4ea4-a634-9a5d8155ae8b"
           (reference "H4") (unit 1)
+        )
+        (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/f98b3539-fa8a-48eb-9a00-f8d7da317cf1"
+          (reference "H8") (unit 1)
         )
       )
     )
@@ -482,6 +491,9 @@
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/7ada9602-7e0d-4ea4-a634-9a5d8155ae8b"
           (reference "SYM1") (unit 1)
         )
+        (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/f98b3539-fa8a-48eb-9a00-f8d7da317cf1"
+          (reference "SYM2") (unit 1)
+        )
       )
     )
   )
@@ -505,6 +517,9 @@
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/7ada9602-7e0d-4ea4-a634-9a5d8155ae8b"
           (reference "H2") (unit 1)
+        )
+        (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/f98b3539-fa8a-48eb-9a00-f8d7da317cf1"
+          (reference "H5") (unit 1)
         )
       )
     )
