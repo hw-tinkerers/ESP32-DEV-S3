@@ -60,8 +60,8 @@
   (pad "8" smd rect (at -5.45 -5.3) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 51e83163-9086-4fbd-9886-c40cd0169ab0))
   (pad "9" smd rect (at -6.55 -5.3) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c927beb6-64d1-45f9-914a-52a9bda1567d))
   (pad "10" smd rect (at -7.8 -4.3) (size 1.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7bdbe4cd-dfbc-4349-b231-8f27a796b383))
-  (model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/TF-SMD_TF-012.wrl"
-    (offset (xyz -0 -2.08 0))
+  (model "${KIPRJMOD}/3D Models/TF-SMD_TF-012.wrl"
+    (offset (xyz 0 -2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

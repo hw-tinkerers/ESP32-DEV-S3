@@ -165,9 +165,9 @@
   (pad "S" thru_hole oval (at -4.325 0) (size 0.9 1.7) (drill oval 0.6 1.4) (layers "*.Cu" "*.Mask") (tstamp e5c9a4ca-d62b-482c-8bd8-95a1081fff24))
   (pad "S" thru_hole oval (at 4.325 -4.17) (size 0.9 2) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 48fd12dd-98d0-4050-9970-9291cfdbe31c))
   (pad "S" thru_hole oval (at 4.325 0) (size 0.9 1.7) (drill oval 0.6 1.4) (layers "*.Cu" "*.Mask") (tstamp 47a26666-8371-43ce-912d-53cdc7350b94))
-  (model "${KIPRJMOD}/3d-models/type_c_connector.STEP"
+  (model "${KIPRJMOD}/3D Models/USB-C_SMD-TYPE-C-31-M-12.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 -180 180))
+    (rotate (xyz 0 0 180))
   )
 )

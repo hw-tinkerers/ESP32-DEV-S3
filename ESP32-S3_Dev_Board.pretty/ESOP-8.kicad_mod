@@ -60,4 +60,9 @@
     (solder_mask_margin 0.102) (tstamp 002619ed-f146-4212-b4ad-72977841087b))
   (pad "9" smd rect (at 0 0) (size 2.2 3.2) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 98c9cf21-7525-44b0-8066-7cf39d485ff2))
+  (model "${KIPRJMOD}/3D Models/ESOP-8_L4.9-W3.9-H1.6-LS6.0-P1.27.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

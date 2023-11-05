@@ -34,4 +34,9 @@
   (pad "1" thru_hole rect (at -5 0) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp ff4228a5-e271-4c70-a017-5bde7689a2e4))
   (pad "2" thru_hole circle (at 0 0) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp e435f093-0c4b-4074-b963-d616582cd7ed))
   (pad "3" thru_hole circle (at 5 0) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 4c265cfe-f7ef-4273-9599-50e3d5829a8d))
+  (model "${KIPRJMOD}/3D Models/CONN-TH_3P-P5.08_WJ129V-5.00-3P.wrl"
+    (offset (xyz -7.5 0 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

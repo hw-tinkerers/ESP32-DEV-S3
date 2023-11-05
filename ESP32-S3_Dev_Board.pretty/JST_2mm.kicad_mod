@@ -55,4 +55,9 @@
     (solder_mask_margin 0.102) (tstamp 7d568713-ff8a-43e6-8f89-f72f5f5e157b))
   (pad "4" smd rect (at -3.35 5.75 180) (size 1.5 3.4) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 9c6bbac9-72c6-4fd5-8ff7-63e00955036e))
+  (model "${KIPRJMOD}/3D Models/CONN-SMD_P2.00_S2B-PH-SM4-TB-LF-SN.wrl"
+    (offset (xyz 1 -5.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

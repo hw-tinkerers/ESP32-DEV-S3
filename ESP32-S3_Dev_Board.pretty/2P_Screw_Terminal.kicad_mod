@@ -33,4 +33,9 @@
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 1afc0ebc-e7dc-4cc5-81dc-9a0628996c07))
   (pad "1" thru_hole rect (at -2.5 0) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp ff4228a5-e271-4c70-a017-5bde7689a2e4))
   (pad "2" thru_hole circle (at 2.5 0) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp e435f093-0c4b-4074-b963-d616582cd7ed))
+  (model "${KIPRJMOD}/3D Models/CONN-TH_2P-P5.00_TOPONELEC_TY500-5.0-02P-14-00AH.wrl"
+    (offset (xyz 0.25 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -180))
+  )
 )
