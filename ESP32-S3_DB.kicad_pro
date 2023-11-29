@@ -478,7 +478,7 @@
     ],
     [
       "f98b3539-fa8a-48eb-9a00-f8d7da317cf1",
-      "Selection_jumpers"
+      "SELECTION_JUMPERS"
     ],
     [
       "efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75",
@@ -486,7 +486,7 @@
     ],
     [
       "cd99bb00-fc75-4430-bf94-ba56f480f215",
-      "ESP32-S3-MCU"
+      "ESP32-S3"
     ],
     [
       "95090a63-7b3c-4ea0-92b8-aeafe05264cd",

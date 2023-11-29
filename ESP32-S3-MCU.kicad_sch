@@ -2323,7 +2323,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 98.425 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0430e422-75cf-475b-9b25-a0603a0c2904)
-    (property "Reference" "#PWR02" (at 98.425 57.15 0)
+    (property "Reference" "#PWR?" (at 98.425 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 95.25 51.435 0)
@@ -2339,7 +2339,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR05") (unit 1)
@@ -2409,7 +2409,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 113.665 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e84dcd7-c1bb-4bc5-8f2d-066496483fe6)
-    (property "Reference" "C1" (at 114.935 43.815 0)
+    (property "Reference" "C?" (at 114.935 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.3pF" (at 114.935 47.625 0)
@@ -2429,7 +2429,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C1") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C7") (unit 1)
@@ -2441,7 +2441,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 52.07 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1498a6b8-3e65-44d6-ac1d-f552db135450)
-    (property "Reference" "R1" (at 48.895 104.14 90)
+    (property "Reference" "R?" (at 48.895 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 52.07 107.315 90)
@@ -2461,7 +2461,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R40") (unit 1)
@@ -2473,7 +2473,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 97.79 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 15f59dcc-bad4-4f93-b039-150463c2a30a)
-    (property "Reference" "C5" (at 99.06 59.055 0)
+    (property "Reference" "C?" (at 99.06 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 99.06 62.865 0)
@@ -2493,7 +2493,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C5") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C6") (unit 1)
@@ -2537,7 +2537,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 80.645 112.395 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c8d59a3-a54b-4eb2-95f0-e054f552fe8a)
-    (property "Reference" "C8" (at 81.915 110.49 0)
+    (property "Reference" "C?" (at 81.915 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (at 74.93 114.3 0)
@@ -2557,7 +2557,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C8") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C33") (unit 1)
@@ -2569,7 +2569,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 226.695 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d53d3ba-19e5-4920-9808-3d0af76dd83d)
-    (property "Reference" "C13" (at 227.33 74.295 0)
+    (property "Reference" "C?" (at 227.33 74.295 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15pF" (at 227.33 78.105 0)
@@ -2589,7 +2589,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C13") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C15") (unit 1)
@@ -2601,7 +2601,7 @@
   (symbol (lib_id "ESP32-S3_DB:L") (at 107.315 57.15 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 30581968-b2ce-44c1-90e5-03cc788a3d24)
-    (property "Reference" "L3" (at 107.315 55.245 90)
+    (property "Reference" "L?" (at 107.315 55.245 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.2nH" (at 107.315 58.42 90)
@@ -2621,7 +2621,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "L3") (unit 1)
+          (reference "L?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "L3") (unit 1)
@@ -2633,7 +2633,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 52.07 113.03 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 31cade14-a7a3-4d60-885b-5f9a70949a79)
-    (property "Reference" "R1" (at 48.895 111.76 90)
+    (property "Reference" "R?" (at 48.895 111.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 52.07 114.935 90)
@@ -2653,7 +2653,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R42") (unit 1)
@@ -2697,7 +2697,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 212.725 67.945 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 38cd770a-f85d-4acc-b1ea-704915d2e019)
-    (property "Reference" "#PWR015" (at 212.725 74.295 0)
+    (property "Reference" "#PWR?" (at 212.725 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 215.9 68.58 0)
@@ -2713,7 +2713,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR013") (unit 1)
@@ -2725,7 +2725,7 @@
   (symbol (lib_id "ESP32-S3_DB:L") (at 107.315 41.91 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3e2b67bc-68f9-4eb9-b093-d36c4a24ae9a)
-    (property "Reference" "L1" (at 107.315 37.465 90)
+    (property "Reference" "L?" (at 107.315 37.465 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.2nH" (at 107.315 40.005 90)
@@ -2745,7 +2745,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "L1") (unit 1)
+          (reference "L?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "L2") (unit 1)
@@ -2757,7 +2757,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 213.995 84.455 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 407cb24c-b4d7-4248-ba23-ee9fdedda17e)
-    (property "Reference" "#PWR014" (at 213.995 90.805 0)
+    (property "Reference" "#PWR?" (at 213.995 90.805 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 217.17 85.09 0)
@@ -2773,7 +2773,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR014") (unit 1)
@@ -2846,7 +2846,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 85.09 120.015 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6bbed93c-036f-41da-9a16-f4065e99d0b7)
-    (property "Reference" "#PWR08" (at 85.09 126.365 0)
+    (property "Reference" "#PWR?" (at 85.09 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 82.55 120.65 0)
@@ -2862,7 +2862,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR04") (unit 1)
@@ -2874,7 +2874,7 @@
   (symbol (lib_id "ESP32-S3_DB:Crystal_GND24_Small") (at 220.345 69.85 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6dae9eb6-bef4-448c-9fd9-e006c0f3f5cc)
-    (property "Reference" "Y1" (at 224.155 67.945 0)
+    (property "Reference" "Y?" (at 224.155 67.945 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "40MHz" (at 223.52 73.025 0)
@@ -2896,7 +2896,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "Y1") (unit 1)
+          (reference "Y?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "Y1") (unit 1)
@@ -2908,7 +2908,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 80.01 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 72160bcb-bd8a-47d5-a02c-554af40f2b51)
-    (property "Reference" "#PWR02" (at 80.01 49.53 0)
+    (property "Reference" "#PWR?" (at 80.01 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 76.835 43.815 0)
@@ -2924,7 +2924,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR01") (unit 1)
@@ -2936,7 +2936,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 71.12 94.615 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ec5283f-da0c-4d06-8f63-b4ee079f2390)
-    (property "Reference" "#PWR05" (at 71.12 100.965 0)
+    (property "Reference" "#PWR?" (at 71.12 100.965 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 68.58 95.25 0)
@@ -2952,7 +2952,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR071") (unit 1)
@@ -2993,7 +2993,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 213.995 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8090be4b-6ade-4e95-b3aa-e25c5ba7ead8)
-    (property "Reference" "C12" (at 214.63 77.47 0)
+    (property "Reference" "C?" (at 214.63 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15pF" (at 214.63 81.28 0)
@@ -3013,7 +3013,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C12") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C12") (unit 1)
@@ -3054,7 +3054,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 223.52 60.325 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 821ac461-5fb8-41ed-86a8-c0ea40ed895d)
-    (property "Reference" "#PWR016" (at 223.52 66.675 0)
+    (property "Reference" "#PWR?" (at 223.52 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 226.695 60.96 0)
@@ -3070,7 +3070,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR017") (unit 1)
@@ -3082,7 +3082,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 113.665 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b374f12-5dd5-4185-9f12-3aaae4bb5d0d)
-    (property "Reference" "#PWR03" (at 113.665 57.15 0)
+    (property "Reference" "#PWR?" (at 113.665 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 110.49 51.435 0)
@@ -3098,7 +3098,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR07") (unit 1)
@@ -3110,7 +3110,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 214.63 60.325 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8efc846d-400b-486f-95b9-abe009eb4590)
-    (property "Reference" "#PWR017" (at 214.63 66.675 0)
+    (property "Reference" "#PWR?" (at 214.63 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 217.805 60.96 0)
@@ -3126,7 +3126,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR015") (unit 1)
@@ -3202,7 +3202,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 203.2 95.885 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9d1e9a02-eab1-49e2-812a-09a33a546f16)
-    (property "Reference" "C11" (at 204.47 93.98 0)
+    (property "Reference" "C?" (at 204.47 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 204.47 97.79 0)
@@ -3222,7 +3222,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C11") (unit 1)
@@ -3234,7 +3234,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 98.425 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a4a795b3-8a2e-471e-bdf1-2e8345371b54)
-    (property "Reference" "C2" (at 100.33 43.815 0)
+    (property "Reference" "C?" (at 100.33 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.3pF" (at 100.965 47.625 0)
@@ -3254,7 +3254,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C2") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C5") (unit 1)
@@ -3266,7 +3266,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 38.1 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a584fe46-b43d-4ff9-9aa8-cd82aeac9fef)
-    (property "Reference" "#PWR05" (at 38.1 81.28 0)
+    (property "Reference" "#PWR?" (at 38.1 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 35.56 75.565 0)
@@ -3282,7 +3282,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR028") (unit 1)
@@ -3294,7 +3294,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 52.07 109.22 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a77e0b5c-1d0e-4b55-b19c-a26e1d7e561f)
-    (property "Reference" "R1" (at 48.895 107.95 90)
+    (property "Reference" "R?" (at 48.895 107.95 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 52.07 111.125 90)
@@ -3314,7 +3314,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R41") (unit 1)
@@ -3326,7 +3326,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 213.36 103.505 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a899fae6-5287-4045-861a-a95c23c28f95)
-    (property "Reference" "#PWR011" (at 213.36 109.855 0)
+    (property "Reference" "#PWR?" (at 213.36 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 210.82 104.14 0)
@@ -3342,7 +3342,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR012") (unit 1)
@@ -3354,7 +3354,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 90.17 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ab055c3f-0fbb-44ab-a025-4899ffbd1a0b)
-    (property "Reference" "C6" (at 91.44 59.055 0)
+    (property "Reference" "C?" (at 91.44 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (at 91.44 62.865 0)
@@ -3374,7 +3374,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C6") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C3") (unit 1)
@@ -3386,7 +3386,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 113.665 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ac6b0cbb-c6c6-4723-94aa-5d85149eed9b)
-    (property "Reference" "#PWR07" (at 113.665 72.39 0)
+    (property "Reference" "#PWR?" (at 113.665 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 111.125 66.675 0)
@@ -3402,7 +3402,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR08") (unit 1)
@@ -3414,7 +3414,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 226.695 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b192fbd7-1388-458a-9553-425b2e0387a4)
-    (property "Reference" "#PWR012" (at 226.695 87.63 0)
+    (property "Reference" "#PWR?" (at 226.695 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 81.915 0)
@@ -3430,7 +3430,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR018") (unit 1)
@@ -3442,7 +3442,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 200.025 82.55 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ba9093a8-adaa-4a4d-b7b5-0f64e3409db4)
-    (property "Reference" "R2" (at 197.485 81.28 90)
+    (property "Reference" "R?" (at 197.485 81.28 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "500" (at 200.025 84.455 90)
@@ -3462,7 +3462,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R2") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R3") (unit 1)
@@ -3506,7 +3506,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 81.28 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bfa1597f-67a3-4acc-ae10-827f1c5dcfa7)
-    (property "Reference" "C7" (at 82.55 59.055 0)
+    (property "Reference" "C?" (at 82.55 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 82.55 62.865 0)
@@ -3526,7 +3526,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C7") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C2") (unit 1)
@@ -3538,7 +3538,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 223.52 55.245 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2390cf8-10a2-459c-a395-51bf3acf14cd)
-    (property "Reference" "C15" (at 224.79 53.34 0)
+    (property "Reference" "C?" (at 224.79 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (at 224.79 57.15 0)
@@ -3558,7 +3558,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C15") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C14") (unit 1)
@@ -3570,7 +3570,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 213.36 95.885 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c869be5b-37e3-4528-aac6-cb8e817e4c2b)
-    (property "Reference" "C7" (at 214.63 93.98 0)
+    (property "Reference" "C?" (at 214.63 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 214.63 97.79 0)
@@ -3590,7 +3590,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C7") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C34") (unit 1)
@@ -3602,7 +3602,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 90.17 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cea88652-f683-4b8b-afc8-5c2b3390a2d2)
-    (property "Reference" "#PWR05" (at 90.17 72.39 0)
+    (property "Reference" "#PWR?" (at 90.17 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 87.63 66.675 0)
@@ -3618,7 +3618,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR03") (unit 1)
@@ -3630,7 +3630,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 38.1 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cef7bc3c-29d3-4677-9844-2c10141ad7ce)
-    (property "Reference" "#PWR05" (at 38.1 92.71 0)
+    (property "Reference" "#PWR?" (at 38.1 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 35.56 86.995 0)
@@ -3646,7 +3646,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR033") (unit 1)
@@ -3687,7 +3687,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 102.87 135.255 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da082034-b002-468a-a956-0f6180a3c84b)
-    (property "Reference" "#PWR08" (at 102.87 141.605 0)
+    (property "Reference" "#PWR?" (at 102.87 141.605 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 100.33 135.89 0)
@@ -3703,7 +3703,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR063") (unit 1)
@@ -3715,7 +3715,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 97.79 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db6a9311-4004-4c2e-a051-43c14a4cc03d)
-    (property "Reference" "#PWR06" (at 97.79 72.39 0)
+    (property "Reference" "#PWR?" (at 97.79 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 95.25 66.675 0)
@@ -3731,7 +3731,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR06") (unit 1)
@@ -3807,7 +3807,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 52.07 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e05f5bdd-bc44-4287-a5f2-d952a5edf6cf)
-    (property "Reference" "R1" (at 48.895 100.33 90)
+    (property "Reference" "R?" (at 48.895 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 52.07 103.505 90)
@@ -3827,7 +3827,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R11") (unit 1)
@@ -3839,7 +3839,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 90.17 112.395 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0b00fdd-cac6-4641-b461-afe27bce7ecd)
-    (property "Reference" "C8" (at 91.44 110.49 0)
+    (property "Reference" "C?" (at 91.44 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 84.455 114.3 0)
@@ -3859,7 +3859,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C8") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C4") (unit 1)
@@ -3871,7 +3871,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 110.49 69.85 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e45daf1b-601b-48bd-82cd-35219bc8c524)
-    (property "Reference" "R1" (at 107.95 68.58 90)
+    (property "Reference" "R?" (at 107.95 68.58 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 107.95 71.12 90)
@@ -3891,7 +3891,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R1") (unit 1)
@@ -3903,7 +3903,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 220.345 76.835 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eb90e6e5-167c-4a66-9bf7-19232cf556d9)
-    (property "Reference" "#PWR013" (at 220.345 83.185 0)
+    (property "Reference" "#PWR?" (at 220.345 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 221.615 80.01 0)
@@ -3919,7 +3919,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR016") (unit 1)
@@ -3931,7 +3931,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 190.5 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ecb8541c-a373-49f3-b128-e57c7271e947)
-    (property "Reference" "#PWR018" (at 190.5 64.77 0)
+    (property "Reference" "#PWR?" (at 190.5 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 193.675 59.055 0)
@@ -3947,7 +3947,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR09") (unit 1)
@@ -3959,7 +3959,7 @@
   (symbol (lib_id "ESP32-S3_DB:ESP32-S3") (at 121.285 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ed6d764a-9152-4211-9f8b-1c7097929511)
-    (property "Reference" "U1" (at 154.94 52.705 0)
+    (property "Reference" "U?" (at 154.94 52.705 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "ESP32-S3FH4R2" (at 154.94 55.245 0)
@@ -4034,7 +4034,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "U1") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "U1") (unit 1)
@@ -4107,7 +4107,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 113.665 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f161072a-d1db-4462-aacd-49fd5c461ef3)
-    (property "Reference" "C4" (at 114.3 59.055 0)
+    (property "Reference" "C?" (at 114.3 59.055 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 113.665 62.865 0)
@@ -4127,7 +4127,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C4") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C8") (unit 1)
@@ -4165,7 +4165,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 105.41 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f450d012-28c7-44ef-9948-01287ed1abe7)
-    (property "Reference" "R1" (at 102.235 71.12 90)
+    (property "Reference" "R?" (at 102.235 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 105.41 74.295 90)
@@ -4185,7 +4185,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R1") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R21") (unit 1)
@@ -4197,7 +4197,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 222.25 95.885 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f7fa47f3-4641-4745-a54f-1a9e6508f374)
-    (property "Reference" "C6" (at 223.52 93.98 0)
+    (property "Reference" "C?" (at 223.52 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (at 223.52 97.79 0)
@@ -4217,7 +4217,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C6") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C35") (unit 1)
@@ -4229,7 +4229,7 @@
   (symbol (lib_id "ESP32-S3_DB:R_Small_US") (at 196.85 69.85 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f818b8ff-4a45-4039-82c4-34f53e90b2ed)
-    (property "Reference" "R3" (at 194.31 68.58 90)
+    (property "Reference" "R?" (at 194.31 68.58 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "270" (at 200.025 71.12 90)
@@ -4249,7 +4249,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "R3") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "R2") (unit 1)
@@ -4261,7 +4261,7 @@
   (symbol (lib_id "ESP32-S3_DB:GND") (at 81.28 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f8c18ce1-4266-4ac1-a2f6-648047adb2aa)
-    (property "Reference" "#PWR04" (at 81.28 72.39 0)
+    (property "Reference" "#PWR?" (at 81.28 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 78.74 66.675 0)
@@ -4277,7 +4277,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "#PWR02") (unit 1)
@@ -4289,7 +4289,7 @@
   (symbol (lib_id "ESP32-S3_DB:C") (at 214.63 55.245 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fb768a83-4942-4d84-9fee-11fad02897bc)
-    (property "Reference" "C14" (at 215.9 53.34 0)
+    (property "Reference" "C?" (at 215.9 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 215.9 57.15 0)
@@ -4309,7 +4309,7 @@
     (instances
       (project "ESP32-S3_DB"
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1"
-          (reference "C14") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/b7fc4bd3-c219-4455-832b-8d795385dcf1/cd99bb00-fc75-4430-bf94-ba56f480f215"
           (reference "C13") (unit 1)
