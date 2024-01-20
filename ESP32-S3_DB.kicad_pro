@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,22 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "annular_width|99100000|91550000|766fa3c2-4773-4230-b528-fcef20d8e5f9|00000000-0000-0000-0000-000000000000",
+        "annular_width|99100000|99550000|b603531f-f473-4f4c-8032-1714304060aa|00000000-0000-0000-0000-000000000000",
+        "clearance|130010000|140040000|084e54ae-c740-4312-b4a3-eb8a4a6c5b8d|a33ace98-7465-48a3-a15f-246b4c2d934f",
+        "hole_clearance|209965000|105600000|e1e148df-b322-4ee8-a270-b9bd1bf5c5c5|cdbdffc7-844a-4cab-bbe0-5cc2678b97ff",
+        "hole_clearance|209965000|105800000|e1e148df-b322-4ee8-a270-b9bd1bf5c5c5|5e28dc38-3c7e-4dc3-a2c0-63dab9ac0b62",
+        "hole_clearance|209965000|111200000|81940c3c-5078-4256-b997-528d638458fe|9dc31ec9-1ecc-45b4-8c4a-9f98fc677230",
+        "hole_clearance|209965000|111400000|81940c3c-5078-4256-b997-528d638458fe|02d4c337-42f5-401d-bc8d-46950f9f92a3",
+        "hole_clearance|209965000|119590000|d50b969c-c432-4bc2-9385-2182d3fcf147|69dcbe7d-69a3-4626-9dba-ed46b46f34f3",
+        "hole_clearance|209965000|119790000|d50b969c-c432-4bc2-9385-2182d3fcf147|51efa06e-6392-4f56-aba9-6ca8b1afc0e1",
+        "hole_clearance|209965000|125190000|3f91a601-1744-4538-943e-4a46a5342760|dcee035e-87e1-4c5c-9c46-e07c48ede0cc",
+        "hole_clearance|209965000|125390000|3f91a601-1744-4538-943e-4a46a5342760|c0974683-318d-467d-8d06-5724c06146e9",
+        "items_not_allowed|186335628|90747948|d4cdd1bd-999e-4637-b4c6-a03c73707743|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|211262428|138185743|c1423919-5c8c-42df-85b1-09fce5a856be|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|97379216|138202607|d9f3d709-eb9f-4fe5-8ddf-412963f2df7a|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },

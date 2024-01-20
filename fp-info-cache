@@ -1,4 +1,4 @@
-22421597758041594
+22431840765328821
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54852,12 +54852,26 @@ ESP32-S3_Dev_Board
 3
 3
 ESP32-S3_Dev_Board
+BLE_1
+
+
+0
+0
+0
+ESP32-S3_Dev_Board
 BLE_ANTENNA
 
 
 0
 14
 2
+ESP32-S3_Dev_Board
+BLE_Logo
+
+
+0
+0
+0
 ESP32-S3_Dev_Board
 CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN
 
@@ -54986,6 +55000,20 @@ mounting hole 3.2mm no annular m3
 0
 ESP32-S3_Dev_Board
 OSHW-Logo_5.7x6mm_SilkScreen
+Open Source Hardware Logo
+Logo OSHW
+0
+0
+0
+ESP32-S3_Dev_Board
+OSHW-Logo_11.4x12mm_SilkScreen
+Open Source Hardware Logo
+Logo OSHW
+0
+0
+0
+ESP32-S3_Dev_Board
+OSHW-Logo_38.1x40mm_SilkScreen
 Open Source Hardware Logo
 Logo OSHW
 0
@@ -55138,6 +55166,20 @@ tyye_c_connector
 0
 16
 13
+ESP32-S3_Dev_Board
+wifi
+
+
+0
+0
+0
+ESP32-S3_Dev_Board
+wifi_logo
+
+
+0
+0
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
