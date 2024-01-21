@@ -1,4 +1,4 @@
-22431840765328821
+22435252447139154
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55159,6 +55159,20 @@ USB-C_SMD-TYPE-C-31-M-12
 0
 22
 20
+ESP32-S3_Dev_Board
+Wifi1
+
+
+0
+0
+0
+ESP32-S3_Dev_Board
+Wifi2
+
+
+0
+0
+0
 ESP32-S3_Dev_Board
 tyye_c_connector
 
