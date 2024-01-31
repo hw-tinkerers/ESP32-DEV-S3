@@ -51,4 +51,5 @@ The supported platforms are listed below
 2. ESP-IDF
 3. Zephyr-RTOS
 
-The guide on getting started on each platform is still in making. Stay tuned. 
+The guide on getting started on each platform is still in making. Stay tuned for further updates. 
+
