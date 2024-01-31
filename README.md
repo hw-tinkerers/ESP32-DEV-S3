@@ -2,11 +2,11 @@
 This development board is based on ESP32-S3 chipset which is aimed to solve the problem having to carry multiple tools to debug and capture data on RS485 and CAN bus.
 
 <strong> Front view (Rendering)</strong>
-![plot](./Assets/front.png)
+![plot](./assets/front.png)
 
 
 <strong> Back view (Rendering)</strong>
-![plot](./Assets/back.png)
+![plot](./assets/back.png)
 
 The board is capable of operating in multiple modes.
 1. With Firmware support (Still in making):
