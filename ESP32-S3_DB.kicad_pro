@@ -58,8 +58,7 @@
       "drc_exclusions": [
         "annular_width|99100000|91550000|766fa3c2-4773-4230-b528-fcef20d8e5f9|00000000-0000-0000-0000-000000000000",
         "annular_width|99100000|99550000|b603531f-f473-4f4c-8032-1714304060aa|00000000-0000-0000-0000-000000000000",
-        "clearance|126950000|141550000|084e54ae-c740-4312-b4a3-eb8a4a6c5b8d|a33ace98-7465-48a3-a15f-246b4c2d934f",
-        "clearance|130010000|140040000|084e54ae-c740-4312-b4a3-eb8a4a6c5b8d|a33ace98-7465-48a3-a15f-246b4c2d934f",
+        "clearance|126950000|141550000|90624457-6773-4f85-b237-0d877db0b2f2|ebdd0c7b-9254-4284-a56b-5777cc102386",
         "hole_clearance|209965000|105600000|e1e148df-b322-4ee8-a270-b9bd1bf5c5c5|cdbdffc7-844a-4cab-bbe0-5cc2678b97ff",
         "hole_clearance|209965000|105800000|e1e148df-b322-4ee8-a270-b9bd1bf5c5c5|5e28dc38-3c7e-4dc3-a2c0-63dab9ac0b62",
         "hole_clearance|209965000|111200000|81940c3c-5078-4256-b997-528d638458fe|9dc31ec9-1ecc-45b4-8c4a-9f98fc677230",
@@ -96,7 +95,7 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
+        "lib_footprint_issues": "ignore",
         "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
