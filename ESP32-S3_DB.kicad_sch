@@ -6,7 +6,13 @@
 
   (title_block
     (title "HARDWARE TINKERERS ESP32-S3 DB")
+    (date "22/08/2023")
     (rev "1.0.0")
+    (company "HW-TINKERERS (hw.tinkerers@gmail.com)")
+    (comment 1 "Email: bhandarkasrishtikr111@gmail.com")
+    (comment 2 "Author: Srishtik Bhandarkar")
+    (comment 3 "Email: vaibhavkhatri00@gmail.com")
+    (comment 4 "Author: Vaibhav Khatri")
   )
 
   (lib_symbols
