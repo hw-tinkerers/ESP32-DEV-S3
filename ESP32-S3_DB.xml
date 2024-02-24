@@ -1,0 +1,3690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/srishtik/HW-tinkerers/ESP32-S3_Dev_Board/ESP32-S3_DB.kicad_sch</source>
+    <date>2024 February 21, Wednesday 20:18:30</date>
+    <tool>Eeschema 7.0.1-0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date>22/08/2023</date>
+        <source>ESP32-S3_DB.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>Selection_jumpers.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>3V3_Power.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>ESP32-S3-MCU.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>INPUT_POWER.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>USB-To-UART.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>RS_485.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/EXTERNAL CONNECTORS/" tstamps="/e2721808-ce0b-4b73-8382-0fd911e1c931/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>External_connec.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>CAN-TRANSCEIVER.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/SD_CARD/" tstamps="/3994ddb3-4428-4f96-b9f4-a7790f668af6/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>SD_Card.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/PCB ATTRIBUTES/" tstamps="/7ada9602-7e0d-4ea4-a634-9a5d8155ae8b/">
+      <title_block>
+        <title>HARDWARE TINKERERS ESP32-S3 DB</title>
+        <company>HW-TINKERERS (hw.tinkerers@gmail.com)</company>
+        <rev>1.0.0</rev>
+        <date/>
+        <source>PCB_Attributes.kicad_sch</source>
+        <comment number="1" value="Email: bhandarkasrishtikr111@gmail.com"/>
+        <comment number="2" value="Author: Srishtik Bhandarkar"/>
+        <comment number="3" value="Email: vaibhavkhatri00@gmail.com"/>
+        <comment number="4" value="Author: Vaibhav Khatri"/>
+        <comment number="5" value="Official HW-Tinkerers email: hw.tinkerers@gmail.com"/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J6">
+      <value>R4_TX</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="SELECTION_JUMPERS"/>
+      <property name="Sheetfile" value="Selection_jumpers.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/"/>
+      <tstamps>c1ee5ab9-ddfe-4c07-a5eb-fe530c3ca676</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>R4_RX</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="SELECTION_JUMPERS"/>
+      <property name="Sheetfile" value="Selection_jumpers.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/"/>
+      <tstamps>4cce8845-7877-4289-8eb9-35b839a4cc8e</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>U2RS485_TX</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="SELECTION_JUMPERS"/>
+      <property name="Sheetfile" value="Selection_jumpers.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/"/>
+      <tstamps>33f81f40-20bb-4409-aadb-f2f09926ba6c</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>U2RS485_RX</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="SELECTION_JUMPERS"/>
+      <property name="Sheetfile" value="Selection_jumpers.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/"/>
+      <tstamps>1e1ee12e-5d87-4861-b9a3-8f201949453b</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>U2RS485_DE_~{RE}</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="SELECTION_JUMPERS"/>
+      <property name="Sheetfile" value="Selection_jumpers.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/"/>
+      <tstamps>d54b14d2-f790-4e4b-90c3-d91cfab3bbb3</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>U2U_TX</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="SELECTION_JUMPERS"/>
+      <property name="Sheetfile" value="Selection_jumpers.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/"/>
+      <tstamps>4b71958a-c357-4b98-845c-59503c44a749</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>U2U_RX</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="SELECTION_JUMPERS"/>
+      <property name="Sheetfile" value="Selection_jumpers.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/SELECTION_JUMPERS/" tstamps="/f98b3539-fa8a-48eb-9a00-f8d7da317cf1/"/>
+      <tstamps>2e4324b7-5b37-451f-b2b7-c6cabf779c9b</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C14664</field>
+        <field name="PN">CC0603KRX5R8BB105</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0603KRX5R8BB105"/>
+      <property name="LCSC Part Number" value="C14664"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>3d6258b7-4b9f-47a5-a602-09546518b763</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>997a82d4-1bc3-466f-a6f6-c886ef39aeb9</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>bb861b39-44be-491f-929a-f48b714f0b8b</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>b914c583-055a-47f6-b501-fbbaeef15d1f</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>43ff8f3d-a4be-499b-a573-f596987eca59</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>63567061-0ec5-46fa-aa31-6770ea503796</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>b4fac98f-e5d0-4e3c-9bb6-32a588b930ae</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LD1117DT33CTR </value>
+      <footprint>ESP32-S3_Dev_Board:DPAK</footprint>
+      <datasheet>https://www.mouser.in/datasheet/2/389/ld1117-1849389.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C36395</field>
+        <field name="PN">LD1117DT33CTR</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="AP2127N-3.3TRG1" description=""/>
+      <property name="PN" value="LD1117DT33CTR"/>
+      <property name="LCSC Part Number" value="C36395"/>
+      <property name="Sheetname" value="3V3 POWER"/>
+      <property name="Sheetfile" value="3V3_Power.kicad_sch"/>
+      <sheetpath names="/3V3 POWER/" tstamps="/efdd6c4f-0b42-4473-ae3b-b7dbb76b2e75/"/>
+      <tstamps>5eb5a6e3-9800-4790-91fd-dda01399f8b1</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>bfa1597f-67a3-4acc-ae10-827f1c5dcfa7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C14664</field>
+        <field name="PN">CC0603KRX5R8BB105</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0603KRX5R8BB105"/>
+      <property name="LCSC Part Number" value="C14664"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>ab055c3f-0fbb-44ab-a025-4899ffbd1a0b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>e0b00fdd-cac6-4641-b461-afe27bce7ecd</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>3.3pF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C327287</field>
+        <field name="PN">CC0402BRNPO9BN3R3</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0402BRNPO9BN3R3"/>
+      <property name="LCSC Part Number" value="C327287"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>a4a795b3-8a2e-471e-bdf1-2e8345371b54</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>15f59dcc-bad4-4f93-b039-150463c2a30a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>3.3pF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C327287</field>
+        <field name="PN">CC0402BRNPO9BN3R3</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0402BRNPO9BN3R3"/>
+      <property name="LCSC Part Number" value="C327287"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>0e84dcd7-c1bb-4bc5-8f2d-066496483fe6</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>f161072a-d1db-4462-aacd-49fd5c461ef3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>9d1e9a02-eab1-49e2-812a-09a33a546f16</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>15pF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C326789</field>
+        <field name="PN">CC0402GRNPO8BN150</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0402GRNPO8BN150"/>
+      <property name="LCSC Part Number" value="C326789"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>8090be4b-6ade-4e95-b3aa-e25c5ba7ead8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>fb768a83-4942-4d84-9fee-11fad02897bc</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C14664</field>
+        <field name="PN">CC0603KRX5R8BB105</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0603KRX5R8BB105"/>
+      <property name="LCSC Part Number" value="C14664"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>c2390cf8-10a2-459c-a395-51bf3acf14cd</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>15pF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C326789</field>
+        <field name="PN">CC0402GRNPO8BN150</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0402GRNPO8BN150"/>
+      <property name="LCSC Part Number" value="C326789"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>2d53d3ba-19e5-4920-9808-3d0af76dd83d</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>0b02b06d-962f-420f-8d8a-a38dcad98b6a</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>6b6428e8-1667-4099-b736-04582d3e731c</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>15pF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C326789</field>
+        <field name="PN">CC0402GRNPO8BN150</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0402GRNPO8BN150"/>
+      <property name="LCSC Part Number" value="C326789"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>7f424ccf-9632-43ed-a39d-f5a38f6c8a88</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>15pF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C326789</field>
+        <field name="PN">CC0402GRNPO8BN150</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0402GRNPO8BN150"/>
+      <property name="LCSC Part Number" value="C326789"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>8132774e-841d-487a-9c2a-cadcb75bf6b0</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>GREEN</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84264</field>
+        <field name="PN">NCD0603C1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603C1"/>
+      <property name="LCSC Part Number" value="C84264"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>dc972cff-e360-49d5-a306-9a91c4971d98</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>2.2nH</value>
+      <footprint>ESP32-S3_Dev_Board:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C76790</field>
+        <field name="PN">MLK1005S2N2ST000</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="L" description="Inductor"/>
+      <property name="PN" value="MLK1005S2N2ST000"/>
+      <property name="LCSC Part Number" value="C76790"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>3e2b67bc-68f9-4eb9-b093-d36c4a24ae9a</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>2.2nH</value>
+      <footprint>ESP32-S3_Dev_Board:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C76790</field>
+        <field name="PN">MLK1005S2N2ST000</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="L" description="Inductor"/>
+      <property name="PN" value="MLK1005S2N2ST000"/>
+      <property name="LCSC Part Number" value="C76790"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>30581968-b2ce-44c1-90e5-03cc788a3d24</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>e45daf1b-601b-48bd-82cd-35219bc8c524</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>e05f5bdd-bc44-4287-a5f2-d952a5edf6cf</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>0567a783-4f1c-4d46-9272-9ebcce327b63</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>f450d012-28c7-44ef-9948-01287ed1abe7</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>1498a6b8-3e65-44d6-ac1d-f552db135450</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>a77e0b5c-1d0e-4b55-b19c-a26e1d7e561f</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>31cade14-a7a3-4d60-885b-5f9a70949a79</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>20468239-6164-451b-a00c-6abca2878d79</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>94a8db05-6e88-4c10-ad84-0c6839fdebf3</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>bc569167-3fd3-44c1-902d-dcc35166e6ce</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>546224f3-5d0d-489b-b6bd-e3414b8dafa7</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>32dc8051-059f-4106-85e5-38ffc9f3c2b3</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>eed38367-f333-42df-8638-9a82aab986fc</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>500</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C137970</field>
+        <field name="PN">RC0402FR-07499RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-07499RL"/>
+      <property name="LCSC Part Number" value="C137970"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>8f425d51-d37b-492f-813f-2363b0a93013</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>ESP32-S3_Dev_Board:KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4</footprint>
+      <fields>
+        <field name="LCSC Part Number">C92584</field>
+        <field name="PN">K2-1187SQ-A4SW-06</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="PN" value="K2-1187SQ-A4SW-06"/>
+      <property name="LCSC Part Number" value="C92584"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>eef6f61f-07ed-49f4-8366-52bc7e5e4388</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>BOOT</value>
+      <footprint>ESP32-S3_Dev_Board:KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4</footprint>
+      <fields>
+        <field name="LCSC Part Number">C92584</field>
+        <field name="PN">K2-1187SQ-A4SW-06</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="PN" value="K2-1187SQ-A4SW-06"/>
+      <property name="LCSC Part Number" value="C92584"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>d03e271f-60b2-4c6a-b446-0d5e606b793b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-S3FH4R2</value>
+      <footprint>ESP32-S3_Dev_Board:QFN-56_L7.0-W7.0-P0.40-TL-EP4.0</footprint>
+      <datasheet>ESP32-S3</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C3013940</field>
+        <field name="PN">ESP32-S3FH4R2</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="ESP32-S3" description="ESP32-S3, Xtensa LX7 CPU"/>
+      <property name="PN" value="ESP32-S3FH4R2"/>
+      <property name="LCSC Part Number" value="C3013940"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="ESP32-S3, Xtensa LX7 CPU"/>
+      <property name="ki_keywords" value="ESP32-S3"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>ed6d764a-9152-4211-9f8b-1c7097929511</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>32.768KHz</value>
+      <footprint>ESP32-S3_Dev_Board:CRYSTAL-SMD_L3.2-W1.5</footprint>
+      <datasheet>https://lcsc.com/product-detail/_TXC-Corp-AH03200003_C337577.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C337577</field>
+        <field name="LCSC Part Number">C337577</field>
+        <field name="PN">AH03200003</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="AH03200003" description=""/>
+      <property name="LCSC Part" value="C337577"/>
+      <property name="PN" value="AH03200003"/>
+      <property name="LCSC Part Number" value="C337577"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>dbd34117-7c8d-45ec-963d-7ba1573c06b7</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>40MHz</value>
+      <footprint>ESP32-S3_Dev_Board:CRYSTAL-SMD_4P-L3.2-W2.5-BL</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2901712</field>
+        <field name="PN">SX3B40.000F1210F30</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="PN" value="SX3B40.000F1210F30"/>
+      <property name="LCSC Part Number" value="C2901712"/>
+      <property name="Sheetname" value="ESP32-S3"/>
+      <property name="Sheetfile" value="ESP32-S3-MCU.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/ESP32-S3/" tstamps="/cd99bb00-fc75-4430-bf94-ba56f480f215/"/>
+      <tstamps>6dae9eb6-bef4-448c-9fd9-e006c0f3f5cc</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>22uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C12891</field>
+        <field name="PN">CL31A226KAHNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL31A226KAHNNNE"/>
+      <property name="LCSC Part Number" value="C12891"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>99c1eff9-a525-4214-8f02-91f4fc880ae1</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>15c6421d-bd67-4f97-9503-6b2a3684f167</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>81863fea-5d2a-4311-8651-8cd5b822d801</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>22uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2762594</field>
+        <field name="PN">CL10A226MO7JZNC</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL10A226MO7JZNC"/>
+      <property name="LCSC Part Number" value="C2762594"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>5a0959c3-2d44-4527-bb68-5916f376a67c</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>22uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2762594</field>
+        <field name="PN">CL10A226MO7JZNC</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL10A226MO7JZNC"/>
+      <property name="LCSC Part Number" value="C2762594"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>6461039c-c85a-4a02-97bc-4645793b59ef</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>22uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C12891</field>
+        <field name="PN">CL31A226KAHNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL31A226KAHNNNE"/>
+      <property name="LCSC Part Number" value="C12891"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>f0cd9e1e-b90c-42a4-a5eb-337c86a15265</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>22uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C12891</field>
+        <field name="PN">CL31A226KAHNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL31A226KAHNNNE"/>
+      <property name="LCSC Part Number" value="C12891"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>6f5b2a4b-1ae7-4a92-90c2-ecc28e0cd7c6</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>22uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C12891</field>
+        <field name="PN">CL31A226KAHNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL31A226KAHNNNE"/>
+      <property name="LCSC Part Number" value="C12891"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>ee67cfc7-7117-4057-b7f6-2b44ef5f3e4c</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>10uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C15850</field>
+        <field name="PN">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21A106KAYNNNE"/>
+      <property name="LCSC Part Number" value="C15850"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>28e314af-c6d9-414c-aa0a-532c61b72439</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>1uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C14664</field>
+        <field name="PN">CC0603KRX5R8BB105</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0603KRX5R8BB105"/>
+      <property name="LCSC Part Number" value="C14664"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>007b59f3-dd70-4924-9c2c-aaa84baa8039</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BLUE</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84266</field>
+        <field name="PN">NCD0603B1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603B1"/>
+      <property name="LCSC Part Number" value="C84266"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>317565d4-8006-40d0-997f-e4cc43da64a6</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>PRTR5V0U2X</value>
+      <footprint>ESP32-S3_Dev_Board:SOT-143</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="LCSC Part Number">C2827688</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PRTR5V0U2X</field>
+        <field name="Mouser Part Number">N/A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PRTR5V0U2X?qs=vHuUswq2%252BsxqVTVM0kNyWw%3D%3D</field>
+        <field name="PN">PRTR5V0U2X</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="PRTR5V0U2X" description="NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PRTR5V0U2X"/>
+      <property name="Mouser Part Number" value="N/A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PRTR5V0U2X?qs=vHuUswq2%252BsxqVTVM0kNyWw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="PN" value="PRTR5V0U2X"/>
+      <property name="LCSC Part Number" value="C2827688"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>0d80898f-7f61-480d-b056-8caebe231d58</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>GREEN</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84264</field>
+        <field name="PN">NCD0603C1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603C1"/>
+      <property name="LCSC Part Number" value="C84264"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>0bd827b6-9c9b-4497-9b74-29b01ccafe4f</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>GREEN</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84264</field>
+        <field name="PN">NCD0603C1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603C1"/>
+      <property name="LCSC Part Number" value="C84264"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>6c8921e9-af97-466a-8a24-001d0de03fbf</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>GREEN</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84264</field>
+        <field name="PN">NCD0603C1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603C1"/>
+      <property name="LCSC Part Number" value="C84264"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>a6d80c08-4b13-4934-914a-ecbfbf6cd33e</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>GREEN</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84264</field>
+        <field name="PN">NCD0603C1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603C1"/>
+      <property name="LCSC Part Number" value="C84264"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>96dff88f-0965-4525-b742-b357afe891fd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>TYPE-C-31-M12_13</value>
+      <footprint>ESP32-S3_Dev_Board:tyye_c_connector</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2205251630_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C165948</field>
+        <field name="LCSC link">https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html</field>
+        <field name="PN">TYPE-C-31-M-12</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="TYPE_C_CONNECTOR" description=""/>
+      <property name="PN" value="TYPE-C-31-M-12"/>
+      <property name="LCSC Part Number" value="C165948"/>
+      <property name="LCSC link" value="https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>b162bfb0-b4de-4a1e-8554-810a3dffb6a0</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>1uH</value>
+      <footprint>ESP32-S3_Dev_Board:L_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C576540</field>
+        <field name="PN">LQM18PN1R0MFHD</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="L" description="Inductor"/>
+      <property name="PN" value="LQM18PN1R0MFHD"/>
+      <property name="LCSC Part Number" value="C576540"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>a17b8e8f-d5cb-40e8-8de1-8b3f09e33c35</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>8a238c19-97a8-4fe2-b7b1-d8efaa37e0c7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>8c57fd13-ccbc-4b84-8379-0e70a1ce510c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C137886</field>
+        <field name="PN">RC0402JR-072RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402JR-072RL"/>
+      <property name="LCSC Part Number" value="C137886"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>f2866daf-7e98-4412-8aee-f91a2711732a</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0.5E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C346785</field>
+        <field name="PN">CSR0402FKR500</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="CSR0402FKR500"/>
+      <property name="LCSC Part Number" value="C346785"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>72f5c91c-959c-4434-964d-adaa1c1f8628</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>b52339ff-c904-450a-bcaa-775f98683061</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>0420217f-b679-454a-ad97-6b524c836206</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>500</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C137970</field>
+        <field name="PN">RC0402FR-07499RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-07499RL"/>
+      <property name="LCSC Part Number" value="C137970"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>22515982-9b63-4ddd-a23a-8714678f49b2</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>edc53b8b-5d66-4dba-b75c-284cb3374274</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>9551bb99-9c43-412c-a9b9-2c5529920f40</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>ON/OFF</value>
+      <footprint>ESP32-S3_Dev_Board:KEY-SMD_4P-L5.2-W5.2-P3.70-LS6.4</footprint>
+      <fields>
+        <field name="LCSC Part Number">C92584</field>
+        <field name="PN">K2-1187SQ-A4SW-06</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="PN" value="K2-1187SQ-A4SW-06"/>
+      <property name="LCSC Part Number" value="C92584"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>7ed38f6a-ae8d-4064-8444-81de8a309a3f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>IP5306</value>
+      <footprint>ESP32-S3_Dev_Board:ESOP-8</footprint>
+      <datasheet>https://lcsc.com/product-detail/PMIC-Battery-Management_IP5306_C181692.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C181692</field>
+        <field name="LCSC Part Number">C181692</field>
+        <field name="PN">IP5306</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="IP5306" description=""/>
+      <property name="LCSC Part" value="C181692"/>
+      <property name="PN" value="IP5306"/>
+      <property name="LCSC Part Number" value="C181692"/>
+      <property name="Sheetname" value="INPUT POWER"/>
+      <property name="Sheetfile" value="INPUT_POWER.kicad_sch"/>
+      <sheetpath names="/INPUT POWER/" tstamps="/95090a63-7b3c-4ea0-92b8-aeafe05264cd/"/>
+      <tstamps>44d9e21b-403c-4e52-8867-fbd149beb623</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>900b506f-b1a1-4034-bca5-5bd2fa6ca230</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>d8c9f172-17d6-4a59-b241-681cf83409f5</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>GREEN</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84264</field>
+        <field name="PN">NCD0603C1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603C1"/>
+      <property name="LCSC Part Number" value="C84264"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>e058b352-feac-4026-86b7-04f2931ff6a5</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>GREEN</value>
+      <footprint>ESP32-S3_Dev_Board:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C84264</field>
+        <field name="PN">NCD0603C1</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="NCD0603C1"/>
+      <property name="LCSC Part Number" value="C84264"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>0f1547f0-11f2-4050-a9df-f5c612e571b1</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>PROG_Default</value>
+      <footprint>ESP32-S3_Dev_Board:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="ESP32-S3_DB" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="PN" value=""/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>8c58afd1-71fb-416e-b9f4-97725a417571</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>2d3fc3f6-d699-44d2-b502-dcab3aabdb67</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>500</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C137970</field>
+        <field name="PN">RC0402FR-07499RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-07499RL"/>
+      <property name="LCSC Part Number" value="C137970"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>5dcbe321-a059-435e-ade3-3d623134aa9a</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>500</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C137970</field>
+        <field name="PN">RC0402FR-07499RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-07499RL"/>
+      <property name="LCSC Part Number" value="C137970"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>275624eb-7f5b-4d4c-b843-3c39ea0d67b5</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>4b6f3e39-5142-4d3f-9ea6-d85dfab4a5bf</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>c8db6139-ec56-4ff9-8dbf-e5c54796b4e7</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>UMH3N</value>
+      <footprint>ESP32-S3_Dev_Board:SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR</footprint>
+      <fields>
+        <field name="LCSC Part Number">C62892</field>
+        <field name="PN">UMH3N</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="UMH3N" description=""/>
+      <property name="PN" value="UMH3N"/>
+      <property name="LCSC Part Number" value="C62892"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>8b372337-3584-4e21-a997-bd1eac60b845</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>CH340X</value>
+      <footprint>ESP32-S3_Dev_Board:MSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>https://www.mpja.com/download/35227cpdata.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C3035748</field>
+        <field name="PN">CH340X</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="CH340X" description="USB serial converter, UART, MSOP-10"/>
+      <property name="PN" value="CH340X"/>
+      <property name="LCSC Part Number" value="C3035748"/>
+      <property name="Sheetname" value="USB-TO-UART"/>
+      <property name="Sheetfile" value="USB-To-UART.kicad_sch"/>
+      <property name="ki_description" value="USB serial converter, UART, MSOP-10"/>
+      <property name="ki_keywords" value="USB UART Serial Converter Interface"/>
+      <sheetpath names="/USB-TO-UART/" tstamps="/bf189a9b-22e7-430e-8144-dc6e013a917d/"/>
+      <tstamps>ef19a03f-846f-427f-8063-0bb1f1f1868c</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>9b7a0168-cd01-42bb-b80f-820408dbe130</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SM712_C293966</value>
+      <footprint>ESP32-S3_Dev_Board:SOT-23-3</footprint>
+      <datasheet>https://lcsc.com/product-detail/TVS_DOWO-SM712_C293966.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C293966</field>
+        <field name="LCSC Part Number">C293966</field>
+        <field name="PN">SM712</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="SM712_C293966" description=""/>
+      <property name="LCSC Part" value="C293966"/>
+      <property name="PN" value="SM712"/>
+      <property name="LCSC Part Number" value="C293966"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>80adafd8-ab5c-47a9-95b1-480b0da108a4</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>7db2c567-7c81-4b23-a67b-0e99c07b5ab0</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>186288b7-62fd-4bac-8ef6-68a9da644b8a</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>52c79a36-696e-444d-b7cf-4a602e595060</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>120E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C114758</field>
+        <field name="PN">RC0402FR-07120RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-07120RL"/>
+      <property name="LCSC Part Number" value="C114758"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>2adb644c-73d9-4955-ab24-e22a41c0c1fc</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>3189af3a-55f0-477d-8340-f0ad2e29fb8f</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>c15245ae-5828-4504-8ec0-ed77886a7996</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10k</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C60490</field>
+        <field name="PN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0710KL"/>
+      <property name="LCSC Part Number" value="C60490"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>f34fd3fa-22a1-4504-9be8-4d7179c00baa</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>058ca6d4-930f-4c15-b1f5-5e1f5c39281a</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>115afec1-922e-4c4e-b567-fd81172d32ce</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>9c0e1d34-de97-4ff7-97ef-07fa71b6680d</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>8d86f9ce-87ba-4581-a826-c24c3ffbef15</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SP3071EEN-L/TR</value>
+      <footprint>ESP32-S3_Dev_Board:SOP-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MAX485ESA+T</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max485esat/maxim-integrated?region=nac</field>
+        <field name="Height">1.75</field>
+        <field name="LCSC Part Number">C28746</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX485ESA+T</field>
+        <field name="Mouser Part Number">700-MAX485ESAT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX485ESA%2bT?qs=LHmEVA8xxfYXmvxEk%252BFtEg%3D%3D</field>
+        <field name="PN">SP3071EEN-L/TR</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="SP3071EEN-L/TR" description="RS-422/RS-485 Interface IC Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX485ESA+T"/>
+      <property name="Mouser Part Number" value="700-MAX485ESAT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX485ESA%2bT?qs=LHmEVA8xxfYXmvxEk%252BFtEg%3D%3D"/>
+      <property name="Arrow Part Number" value="MAX485ESA+T"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/max485esat/maxim-integrated?region=nac"/>
+      <property name="LCSC Part Number" value="C28746"/>
+      <property name="PN" value="SP3071EEN-L/TR"/>
+      <property name="Sheetname" value="RS_485"/>
+      <property name="Sheetfile" value="RS_485.kicad_sch"/>
+      <property name="ki_description" value="RS-422/RS-485 Interface IC Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers"/>
+      <sheetpath names="/RS_485/" tstamps="/9b4afe2f-79e5-4a56-98d7-d16b193c0e70/"/>
+      <tstamps>867242ee-1d67-4b75-80ea-40400a32bca9</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>JST_Battery</value>
+      <footprint>ESP32-S3_Dev_Board:JST_2mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2102031704_JST-Sales-America-S2B-PH-SM4-TB-LF-SN_C295747.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part">C295747</field>
+        <field name="LCSC Part Number">C295747</field>
+        <field name="PN">S2B-PH-SM4-TB(LF)(SN) </field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="SM02B-SRSS-TB(LF)(SN)" description=""/>
+      <property name="LCSC Part" value="C295747"/>
+      <property name="PN" value="S2B-PH-SM4-TB(LF)(SN) "/>
+      <property name="LCSC Part Number" value="C295747"/>
+      <property name="Sheetname" value="EXTERNAL CONNECTORS"/>
+      <property name="Sheetfile" value="External_connec.kicad_sch"/>
+      <sheetpath names="/EXTERNAL CONNECTORS/" tstamps="/e2721808-ce0b-4b73-8382-0fd911e1c931/"/>
+      <tstamps>60f57f91-3136-4cf3-adaa-8603161ef4da</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>PRTR5V0U2X</value>
+      <footprint>ESP32-S3_Dev_Board:SOT-143</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="LCSC Part Number">C2827688</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PRTR5V0U2X</field>
+        <field name="Mouser Part Number">N/A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PRTR5V0U2X?qs=vHuUswq2%252BsxqVTVM0kNyWw%3D%3D</field>
+        <field name="PN">PRTR5V0U2X</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="PRTR5V0U2X" description="NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PRTR5V0U2X"/>
+      <property name="Mouser Part Number" value="N/A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PRTR5V0U2X?qs=vHuUswq2%252BsxqVTVM0kNyWw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="PN" value="PRTR5V0U2X"/>
+      <property name="LCSC Part Number" value="C2827688"/>
+      <property name="Sheetname" value="EXTERNAL CONNECTORS"/>
+      <property name="Sheetfile" value="External_connec.kicad_sch"/>
+      <property name="ki_description" value="NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B"/>
+      <sheetpath names="/EXTERNAL CONNECTORS/" tstamps="/e2721808-ce0b-4b73-8382-0fd911e1c931/"/>
+      <tstamps>047a53f0-9634-470c-a163-bba5ef004548</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>TYPE-C-31-M12_13</value>
+      <footprint>ESP32-S3_Dev_Board:tyye_c_connector</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2205251630_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C165948</field>
+        <field name="LCSC link">https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html</field>
+        <field name="PN">TYPE-C-31-M-12</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="TYPE_C_CONNECTOR" description=""/>
+      <property name="PN" value="TYPE-C-31-M-12"/>
+      <property name="LCSC Part Number" value="C165948"/>
+      <property name="LCSC link" value="https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html"/>
+      <property name="Sheetname" value="EXTERNAL CONNECTORS"/>
+      <property name="Sheetfile" value="External_connec.kicad_sch"/>
+      <sheetpath names="/EXTERNAL CONNECTORS/" tstamps="/e2721808-ce0b-4b73-8382-0fd911e1c931/"/>
+      <tstamps>3c98499e-9610-429f-9cbf-9e3279596bdd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="EXTERNAL CONNECTORS"/>
+      <property name="Sheetfile" value="External_connec.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/EXTERNAL CONNECTORS/" tstamps="/e2721808-ce0b-4b73-8382-0fd911e1c931/"/>
+      <tstamps>29b11b01-8d06-444c-9513-ab873b3ee505</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="EXTERNAL CONNECTORS"/>
+      <property name="Sheetfile" value="External_connec.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/EXTERNAL CONNECTORS/" tstamps="/e2721808-ce0b-4b73-8382-0fd911e1c931/"/>
+      <tstamps>5dfa6f52-7bca-43b1-a063-add2853f666d</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>008bfe2d-6d8a-47b7-bf67-d939da3fb686</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>1d973dfe-4fdb-41b7-aa46-ca41bcc4fbd7</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>10nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C327415</field>
+        <field name="PN">CC0402KRX7R9BB103</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0402KRX7R9BB103"/>
+      <property name="LCSC Part Number" value="C327415"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>f2768265-86bb-40e1-81e3-5aac3880522f</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>PESD2CAN</value>
+      <footprint>ESP32-S3_Dev_Board:SOT-23-3</footprint>
+      <datasheet>https://lcsc.com/product-detail/TVS_DOWO-PESD2CAN_C284078.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C284078</field>
+        <field name="LCSC Part Number">C284078</field>
+        <field name="PN">PESD2CAN</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="PESD2CAN" description=""/>
+      <property name="LCSC Part" value="C284078"/>
+      <property name="PN" value="PESD2CAN"/>
+      <property name="LCSC Part Number" value="C284078"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>9932282b-a03d-48ba-b54f-dad90864f850</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>59E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C273340</field>
+        <field name="PN">RC0402FR-0759RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0759RL"/>
+      <property name="LCSC Part Number" value="C273340"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>a3731f81-978d-46ea-9def-fef7ef969254</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>69d441b6-744e-4a47-8085-59fe879bb2b8</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>5k1</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C105872</field>
+        <field name="PN">RC0402FR-075K1L</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-075K1L"/>
+      <property name="LCSC Part Number" value="C105872"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>3a618e67-72e0-4c8b-bae0-d33cc2c27102</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>59E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C273340</field>
+        <field name="PN">RC0402FR-0759RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0402FR-0759RL"/>
+      <property name="LCSC Part Number" value="C273340"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>df326de5-749a-4197-a4c6-b0168dea8877</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>d00a52f1-96c1-49a7-a848-d287e0835262</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C102753</field>
+        <field name="PN">RTT02100JTH</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RTT02100JTH"/>
+      <property name="LCSC Part Number" value="C102753"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>b84d04c0-6bcb-419f-90ec-3b5757f44dd4</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>ATA6561-GAQW-N</value>
+      <footprint>ESP32-S3_Dev_Board:SOP-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/ATA6560-ATA6561-High-Speed-CAN-Transceiver-DS20005991A.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C616016</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="PN">ATA6561-GAQW-N</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="ATA6561-GAQW-N" description="MICROCHIP - ATA6561-GAQW-N - CAN TRANSCEIVER, 5MBPS, -40 TO 150DEG C"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="PN" value="ATA6561-GAQW-N"/>
+      <property name="LCSC Part Number" value="C616016"/>
+      <property name="Sheetname" value="CAN TRANSCEIVER"/>
+      <property name="Sheetfile" value="CAN-TRANSCEIVER.kicad_sch"/>
+      <property name="ki_description" value="MICROCHIP - ATA6561-GAQW-N - CAN TRANSCEIVER, 5MBPS, -40 TO 150DEG C"/>
+      <sheetpath names="/CAN TRANSCEIVER/" tstamps="/5968696a-d1c3-4df1-9868-cceeab327a7d/"/>
+      <tstamps>90f3e58b-bfdd-4a39-a174-243c7e1c622c</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>1uF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C14664</field>
+        <field name="PN">CC0603KRX5R8BB105</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CC0603KRX5R8BB105"/>
+      <property name="LCSC Part Number" value="C14664"/>
+      <property name="Sheetname" value="SD_CARD"/>
+      <property name="Sheetfile" value="SD_Card.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/SD_CARD/" tstamps="/3994ddb3-4428-4f96-b9f4-a7790f668af6/"/>
+      <tstamps>cc936145-07db-4588-9c88-96a99f33d27e</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>100nF</value>
+      <footprint>ESP32-S3_Dev_Board:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C2173920</field>
+        <field name="PN">EMK107B7104KAHT</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="EMK107B7104KAHT"/>
+      <property name="LCSC Part Number" value="C2173920"/>
+      <property name="Sheetname" value="SD_CARD"/>
+      <property name="Sheetfile" value="SD_Card.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/SD_CARD/" tstamps="/3994ddb3-4428-4f96-b9f4-a7790f668af6/"/>
+      <tstamps>afafea67-9ea0-4fae-a312-f02822b9a106</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>PESD3V3L5UY,115</value>
+      <footprint>ESP32-S3_Dev_Board:SOT-363_SC-70-6</footprint>
+      <datasheet>https://www.tme.eu/Document/d7b061109274755b8c3532aab9d13eb5/PESD5V0L5UV-DTE.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C477992</field>
+        <field name="PN">PESD3V3L5UY,115</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="PESD3V3L5UY" description="SOT-363 TVS Diode array, 5xUnidirectional, 3.3V, 25W, Alternate KiCAD Library"/>
+      <property name="PN" value="PESD3V3L5UY,115"/>
+      <property name="LCSC Part Number" value="C477992"/>
+      <property name="Sheetname" value="SD_CARD"/>
+      <property name="Sheetfile" value="SD_Card.kicad_sch"/>
+      <property name="ki_description" value="SOT-363 TVS Diode array, 5xUnidirectional, 3.3V, 25W, Alternate KiCAD Library"/>
+      <property name="ki_keywords" value="diode TVS unidirectional array PESD-L5Ux"/>
+      <sheetpath names="/SD_CARD/" tstamps="/3994ddb3-4428-4f96-b9f4-a7790f668af6/"/>
+      <tstamps>e60ae44d-0313-4532-8642-b9de76db84cc</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Micro_SD_Card_Det1</value>
+      <footprint>ESP32-S3_Dev_Board:TF-SMD_TF-012</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2110151630_XKB-Connectivity-XKTF-015-N_C381082.pdf</datasheet>
+      <fields>
+        <field name="PN">TF-012-P9</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="Micro_SD_Card_Det1" description="Micro SD Card Socket with one card detection pin"/>
+      <property name="PN" value="TF-012-P9"/>
+      <property name="Sheetname" value="SD_CARD"/>
+      <property name="Sheetfile" value="SD_Card.kicad_sch"/>
+      <property name="ki_description" value="Micro SD Card Socket with one card detection pin"/>
+      <property name="ki_keywords" value="connector SD microsd"/>
+      <sheetpath names="/SD_CARD/" tstamps="/3994ddb3-4428-4f96-b9f4-a7790f668af6/"/>
+      <tstamps>36c79e5c-06de-4e78-995d-5e43dedd2f8a</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0E</value>
+      <footprint>ESP32-S3_Dev_Board:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part Number">C95177</field>
+        <field name="PN">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="ESP32-S3_DB" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC0603JR-070RL"/>
+      <property name="LCSC Part Number" value="C95177"/>
+      <property name="Sheetname" value="SD_CARD"/>
+      <property name="Sheetfile" value="SD_Card.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/SD_CARD/" tstamps="/3994ddb3-4428-4f96-b9f4-a7790f668af6/"/>
+      <tstamps>10ca7440-6f5c-41cb-afa6-6909388dcefd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ESP32-S3_DB" part="AH03200003">
+      <docs>https://lcsc.com/product-detail/_TXC-Corp-AH03200003_C337577.html</docs>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">AH03200003</field>
+        <field name="Footprint">easyeda2kicad:CRYSTAL-SMD_L3.2-W1.5</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/_TXC-Corp-AH03200003_C337577.html</field>
+        <field name="LCSC Part">C337577</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="AP2127N-3.3TRG1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2127N-3.3TRG1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VOUT" type="power_out"/>
+        <pin num="3" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="ATA6561-GAQW-N">
+      <description>MICROCHIP - ATA6561-GAQW-N - CAN TRANSCEIVER, 5MBPS, -40 TO 150DEG C</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/ATA6560-ATA6561-High-Speed-CAN-Transceiver-DS20005991A.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATA6561-GAQW-N</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/ATA6560-ATA6561-High-Speed-CAN-Transceiver-DS20005991A.pdf</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">ATA6561-GAQW-N</field>
+        <field name="Mouser Part Number">579-ATA6561-GAQW-N</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATA6561-GAQW-N?qs=y6ZabgHbY%252BwGbm2JCZMHKQ%3D%3D</field>
+        <field name="Arrow Part Number">ATA6561-GAQW-N</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ata6561-gaqw-n/microchip-technology?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="VCC" type="passive"/>
+        <pin num="4" name="RXD" type="passive"/>
+        <pin num="5" name="VIO" type="passive"/>
+        <pin num="6" name="CANL" type="passive"/>
+        <pin num="7" name="CANH" type="passive"/>
+        <pin num="8" name="STBY" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Antenna_Shield">
+      <description>Antenna with extra pin for shielding</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">AE</field>
+        <field name="Value">Antenna_Shield</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+        <pin num="2" name="Shield" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="CH340X">
+      <description>USB serial converter, UART, MSOP-10</description>
+      <docs>https://www.mpja.com/download/35227cpdata.pdf</docs>
+      <footprints>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH340X</field>
+        <field name="Footprint">Package_SO:MSOP-10_3x3mm_P0.5mm</field>
+        <field name="Datasheet">https://www.mpja.com/download/35227cpdata.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="UD+" type="bidirectional"/>
+        <pin num="2" name="UD-" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="~{RTS}" type="output"/>
+        <pin num="5" name="~{CTS}" type="input"/>
+        <pin num="6" name="TNOW" type="output"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="TXD" type="output"/>
+        <pin num="9" name="RXD" type="input"/>
+        <pin num="10" name="V3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Conn_01x10">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="ESP32-S3">
+      <description>ESP32-S3, Xtensa LX7 CPU</description>
+      <docs>ESP32-S3</docs>
+      <footprints>
+        <fp>QFN56_7X7_EXP</fp>
+        <fp>QFN56_7X7_EXP-M</fp>
+        <fp>QFN56_7X7_EXP-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-S3</field>
+        <field name="Footprint">QFN56_7X7_EXP</field>
+        <field name="Datasheet">ESP32-S3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LNA_IN" type="bidirectional"/>
+        <pin num="2" name="VDD3P3" type="power_in"/>
+        <pin num="3" name="VDD3P3" type="power_in"/>
+        <pin num="4" name="CHIP_PU" type="input"/>
+        <pin num="5" name="GPIO0" type="bidirectional"/>
+        <pin num="6" name="GPIO1" type="bidirectional"/>
+        <pin num="7" name="GPIO2" type="bidirectional"/>
+        <pin num="8" name="GPIO3" type="bidirectional"/>
+        <pin num="9" name="GPIO4" type="bidirectional"/>
+        <pin num="10" name="GPIO5" type="bidirectional"/>
+        <pin num="11" name="GPIO6" type="bidirectional"/>
+        <pin num="12" name="GPIO7" type="bidirectional"/>
+        <pin num="13" name="GPIO8" type="bidirectional"/>
+        <pin num="14" name="GPIO9" type="bidirectional"/>
+        <pin num="15" name="GPIO10" type="bidirectional"/>
+        <pin num="16" name="GPIO11" type="bidirectional"/>
+        <pin num="17" name="GPIO12" type="bidirectional"/>
+        <pin num="18" name="GPIO13" type="bidirectional"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="VDD3P3_RTC" type="power_in"/>
+        <pin num="21" name="XTAL_32K_P" type="bidirectional"/>
+        <pin num="22" name="XTAL_32K_N" type="bidirectional"/>
+        <pin num="23" name="GPIO17" type="bidirectional"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="SPICS1" type="bidirectional"/>
+        <pin num="29" name="VDD_SPI" type="power_in"/>
+        <pin num="30" name="SPIHD" type="bidirectional"/>
+        <pin num="31" name="SPIWP" type="bidirectional"/>
+        <pin num="32" name="SPICS0" type="bidirectional"/>
+        <pin num="33" name="SPICLK" type="bidirectional"/>
+        <pin num="34" name="SPIQ" type="bidirectional"/>
+        <pin num="35" name="SPID" type="bidirectional"/>
+        <pin num="36" name="SPICLK_N" type="bidirectional"/>
+        <pin num="37" name="SPICLK_P" type="bidirectional"/>
+        <pin num="38" name="GPIO33" type="bidirectional"/>
+        <pin num="39" name="GPIO34" type="bidirectional"/>
+        <pin num="40" name="GPIO35" type="bidirectional"/>
+        <pin num="41" name="GPIO36" type="bidirectional"/>
+        <pin num="42" name="GPIO37" type="bidirectional"/>
+        <pin num="43" name="GPIO38" type="bidirectional"/>
+        <pin num="44" name="MTCK" type="bidirectional"/>
+        <pin num="45" name="MTDO" type="bidirectional"/>
+        <pin num="46" name="VDD3P3_CPU" type="power_in"/>
+        <pin num="47" name="MTDI" type="bidirectional"/>
+        <pin num="48" name="MTMS" type="bidirectional"/>
+        <pin num="49" name="U0TXD" type="bidirectional"/>
+        <pin num="50" name="U0RXD" type="bidirectional"/>
+        <pin num="51" name="GPIO45" type="bidirectional"/>
+        <pin num="52" name="GPIO46" type="bidirectional"/>
+        <pin num="53" name="XTAL_N" type="output"/>
+        <pin num="54" name="XTAL_P" type="input"/>
+        <pin num="55" name="VDDA" type="power_in"/>
+        <pin num="56" name="VDDA" type="power_in"/>
+        <pin num="57" name="GND" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="IP5306">
+      <docs>https://lcsc.com/product-detail/PMIC-Battery-Management_IP5306_C181692.html</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IP5306</field>
+        <field name="Footprint">easyeda2kicad:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/PMIC-Battery-Management_IP5306_C181692.html</field>
+        <field name="LCSC Part">C181692</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="unspecified"/>
+        <pin num="2" name="LED1" type="unspecified"/>
+        <pin num="3" name="LED2" type="unspecified"/>
+        <pin num="4" name="LED3" type="unspecified"/>
+        <pin num="5" name="KEY" type="unspecified"/>
+        <pin num="6" name="BAT" type="unspecified"/>
+        <pin num="7" name="SW" type="unspecified"/>
+        <pin num="8" name="VOUT" type="unspecified"/>
+        <pin num="9" name="EP" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Logo_Open_Hardware_Large">
+      <description>Open Hardware logo, large</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SYM</field>
+        <field name="Value">Logo_Open_Hardware_Large</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Enable">0</field>
+      </fields>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Micro_SD_Card_Det1">
+      <description>Micro SD Card Socket with one card detection pin</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2110151630_XKB-Connectivity-XKTF-015-N_C381082.pdf</docs>
+      <footprints>
+        <fp>microSD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Micro_SD_Card_Det1</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2110151630_XKB-Connectivity-XKTF-015-N_C381082.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="bidirectional"/>
+        <pin num="2" name="DAT3/CD" type="bidirectional"/>
+        <pin num="3" name="CMD" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="DAT0" type="bidirectional"/>
+        <pin num="8" name="DAT1" type="bidirectional"/>
+        <pin num="9" name="DET" type="passive"/>
+        <pin num="10" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="PESD2CAN">
+      <docs>https://lcsc.com/product-detail/TVS_DOWO-PESD2CAN_C284078.html</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PESD2CAN</field>
+        <field name="Footprint">easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/TVS_DOWO-PESD2CAN_C284078.html</field>
+        <field name="LCSC Part">C284078</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="PESD3V3L5UY">
+      <description>SOT-363 TVS Diode array, 5xUnidirectional, 3.3V, 25W, Alternate KiCAD Library</description>
+      <docs>https://www.tme.eu/Document/d7b061109274755b8c3532aab9d13eb5/PESD5V0L5UV-DTE.pdf</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PESD3V3L5UY,115</field>
+        <field name="Footprint">Package_TO_SOT_SMD_AKL:SOT-363_SC-70-6</field>
+        <field name="Datasheet">https://www.tme.eu/Document/d7b061109274755b8c3532aab9d13eb5/PESD5V0L5UV-DTE.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="L1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="L2" type="passive"/>
+        <pin num="4" name="L3" type="passive"/>
+        <pin num="5" name="L4" type="passive"/>
+        <pin num="6" name="L5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="PRTR5V0U2X">
+      <description>NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PRTR5V0U2X</field>
+        <field name="Footprint">PRTR5V0U2X</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PRTR5V0U2X</field>
+        <field name="Mouser Part Number">N/A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PRTR5V0U2X?qs=vHuUswq2%252BsxqVTVM0kNyWw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="I/O_1" type="passive"/>
+        <pin num="3" name="I/O_2" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="SM02B-SRSS-TB(LF)(SN)">
+      <docs>https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM02B-SRSS-TB-LF-SN_C160402.html</docs>
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">SM02B-SRSS-TB (LF)(SN)</field>
+        <field name="Footprint">easyeda2kicad:CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM02B-SRSS-TB-LF-SN_C160402.html</field>
+        <field name="LCSC Part">C160402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="SM712_C293966">
+      <docs>https://lcsc.com/product-detail/TVS_DOWO-SM712_C293966.html</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SM712_C293966</field>
+        <field name="Footprint">easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/TVS_DOWO-SM712_C293966.html</field>
+        <field name="LCSC Part">C293966</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="SP3071EEN-L/TR">
+      <description>RS-422/RS-485 Interface IC Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SP3071EEN-L/TR</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX485ESA+T</field>
+        <field name="Mouser Part Number">700-MAX485ESAT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX485ESA%2bT?qs=LHmEVA8xxfYXmvxEk%252BFtEg%3D%3D</field>
+        <field name="Arrow Part Number">MAX485ESA+T</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max485esat/maxim-integrated?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RO" type="passive"/>
+        <pin num="2" name="~{RE}" type="passive"/>
+        <pin num="3" name="DE" type="passive"/>
+        <pin num="4" name="DI" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="A" type="passive"/>
+        <pin num="7" name="B" type="passive"/>
+        <pin num="8" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="TYPE_C_CONNECTOR">
+      <docs>https://datasheet.lcsc.com/lcsc/2205251630_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J4</field>
+        <field name="Value">TYPE-C-31-M12_13</field>
+        <field name="Footprint">acheron_Connectors:TYPE-C-31-M-12</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2205251630_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf</field>
+        <field name="PN">TYPE-C-31-M-12</field>
+        <field name="LCSC Part Number">C165948</field>
+        <field name="LCSC link">https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_out"/>
+        <pin num="A4" name="VBUS" type="power_out"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1" name="GND" type="power_out"/>
+        <pin num="B4" name="VBUS" type="power_out"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="TestPoint_Alt">
+      <description>test point (alternative shape)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Alt</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-S3_DB" part="UMH3N">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">UMH3N</field>
+        <field name="Footprint">UMH3N:UMT6</field>
+        <field name="MF">Rohm</field>
+        <field name="Description">
+Pre-Biased Bipolar Transistor (BJT) 2 NPN - Pre-Biased (Dual) 50V 100mA 250MHz 150mW Surface Mount UMT6
+</field>
+        <field name="Package">SOT-363 Rohm</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/UMH3N/Rohm/view-part/?ref=snap</field>
+        <field name="MP">UMH3N</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/UMH3N/Rohm/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ESP32-S3_DB">
+      <uri>/Users/srishtik/HW-tinkerers/ESP32-S3_Dev_Board/ESP32-S3_DB.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V3">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VDD3P3_RTC" pintype="power_in"/>
+      <node ref="U1" pin="46" pinfunction="VDD3P3_CPU" pintype="power_in"/>
+      <node ref="U1" pin="55" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U1" pin="56" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="VIO" pintype="passive"/>
+    </net>
+    <net code="2" name="/5V">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="J4" pin="A4" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="J4" pin="B4" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="4" name="/485_TRANS_RX">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/485_TRANS_TX">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/BOOT">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO0" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pintype="input"/>
+    </net>
+    <net code="8" name="/CAN TRANSCEIVER/RXD">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="RXD" pintype="passive"/>
+    </net>
+    <net code="9" name="/CAN TRANSCEIVER/TXD">
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="TXD" pintype="passive"/>
+    </net>
+    <net code="10" name="/CAN_N">
+      <node ref="D4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="CANL" pintype="passive"/>
+    </net>
+    <net code="11" name="/CAN_P">
+      <node ref="D4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="CANH" pintype="passive"/>
+    </net>
+    <net code="12" name="/CAN_RXD{slash}MTDO">
+      <node ref="U1" pin="45" pinfunction="MTDO" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/CAN_TRANS_RXD">
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/CAN_TRANS_TXD">
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/CAN_TXD{slash}MTCK">
+      <node ref="U1" pin="44" pinfunction="MTCK" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/D+">
+      <node ref="D2" pin="2" pinfunction="I/O_1" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="UD+" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/D-">
+      <node ref="D2" pin="3" pinfunction="I/O_2" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="UD-" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/ESP32-S3/D+">
+      <node ref="R49" pin="2" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/ESP32-S3/D-">
+      <node ref="R50" pin="2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/ESP32-S3/XTALN">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="XTAL_32K_N" pintype="bidirectional"/>
+      <node ref="X1" pin="2" pintype="input"/>
+    </net>
+    <net code="21" name="/ESP32-S3/XTALP">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="XTAL_32K_P" pintype="bidirectional"/>
+      <node ref="X1" pin="1" pintype="input"/>
+    </net>
+    <net code="22" name="/EXTERNAL CONNECTORS/CC1">
+      <node ref="J4" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="/EXTERNAL CONNECTORS/CC2">
+      <node ref="J4" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/GPIO1">
+      <node ref="U1" pin="6" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/GPIO2">
+      <node ref="R55" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/GPIO3">
+      <node ref="U1" pin="8" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/GPIO4">
+      <node ref="U1" pin="9" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/GPIO5">
+      <node ref="U1" pin="10" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/GPIO6">
+      <node ref="U1" pin="11" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/GPIO7">
+      <node ref="U1" pin="12" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/GPIO8">
+      <node ref="U1" pin="13" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/GPIO10">
+      <node ref="U1" pin="15" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/GPIO11">
+      <node ref="U1" pin="16" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/GPIO12">
+      <node ref="U1" pin="17" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/GPIO13">
+      <node ref="U1" pin="18" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/GPIO14">
+      <node ref="U1" pin="19" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/GPIO17">
+      <node ref="U1" pin="23" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/GPIO18">
+      <node ref="U1" pin="24" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/GPIO21">
+      <node ref="U1" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/GPIO35">
+      <node ref="U1" pin="40" pinfunction="GPIO35" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/GPIO36">
+      <node ref="U1" pin="41" pinfunction="GPIO36" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/GPIO37">
+      <node ref="U1" pin="42" pinfunction="GPIO37" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/GPIO40">
+      <node ref="U1" pin="43" pinfunction="GPIO38" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/INPUT POWER/CC1">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="/INPUT POWER/CC2">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="/INPUT POWER/LED1">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="LED1" pintype="unspecified"/>
+    </net>
+    <net code="48" name="/INPUT POWER/LED2">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="LED2" pintype="unspecified"/>
+    </net>
+    <net code="49" name="/INPUT POWER/LED3">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="LED3" pintype="unspecified"/>
+    </net>
+    <net code="50" name="/INPUT POWER/VIN">
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="D2" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="/MCU_SL_CLK">
+      <node ref="D10" pin="5" pinfunction="L4" pintype="passive"/>
+      <node ref="J8" pin="5" pinfunction="CLK" pintype="input"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="/MCU_SL_MISO">
+      <node ref="D10" pin="6" pinfunction="L5" pintype="passive"/>
+      <node ref="J8" pin="7" pinfunction="DAT0" pintype="bidirectional"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="/MCU_SL_MOSI">
+      <node ref="D10" pin="3" pinfunction="L2" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="CMD" pintype="input"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="/OTG_D+">
+      <node ref="D11" pin="2" pinfunction="I/O_1" pintype="passive"/>
+      <node ref="J4" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J4" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="/OTG_D-">
+      <node ref="D11" pin="3" pinfunction="I/O_2" pintype="passive"/>
+      <node ref="J4" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J4" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="/R4_~{RE}_DE">
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO9" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="~{RE}" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="DE" pintype="passive"/>
+    </net>
+    <net code="57" name="/RESET">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="CHIP_PU" pintype="input"/>
+      <node ref="U2" pin="3" pintype="input"/>
+    </net>
+    <net code="58" name="/RS-485_RX{slash}GPIO34">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="GPIO34" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="/RS-485_TX{slash}GPIO33">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="GPIO33" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="/RS485_N">
+      <node ref="D6" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="/RS485_P">
+      <node ref="D6" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="/RS_485/RS-485_DI">
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="DI" pintype="passive"/>
+    </net>
+    <net code="63" name="/RS_485/RS-485_RO">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="RO" pintype="passive"/>
+    </net>
+    <net code="64" name="/RS_485/RS_485_N">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="65" name="/RS_485/RS_485_P">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="66" name="/SD_CARD/VDD">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="D10" pin="4" pinfunction="L3" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="67" name="/TNOW">
+      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J22" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="TNOW" pintype="output"/>
+    </net>
+    <net code="68" name="/U2U_CONN_RX">
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="69" name="/U2U_CONN_TX">
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="70" name="/U2U_RXD">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J20" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="U1" pin="49" pinfunction="U0TXD" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="/U2U_TXD">
+      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J19" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="U1" pin="50" pinfunction="U0RXD" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="/USB-TO-UART/485_TX">
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="73" name="/USB-TO-UART/DTR">
+      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="input"/>
+      <node ref="U2" pin="4" pintype="output"/>
+    </net>
+    <net code="74" name="/USB-TO-UART/RTS">
+      <node ref="U2" pin="1" pintype="output"/>
+      <node ref="U2" pin="5" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="~{RTS}" pintype="output"/>
+    </net>
+    <net code="75" name="/USB-TO-UART/V3">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="V3" pintype="passive"/>
+    </net>
+    <net code="76" name="/V_BAT">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="77" name="/~{MCU_SL_CS}">
+      <node ref="D10" pin="1" pinfunction="L1" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="DAT3/CD" pintype="bidirectional"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CN1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="D10" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="D4" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="S" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="A1" pinfunction="GND" pintype="power_out"/>
+      <node ref="J4" pin="B1" pinfunction="GND" pintype="power_out"/>
+      <node ref="J4" pin="S" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J8" pin="6" pinfunction="VSS" pintype="power_in"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="57" pinfunction="GND" pintype="power_out"/>
+      <node ref="U3" pin="9" pinfunction="EP" pintype="unspecified"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U6" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(AE1-A)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VDD3P3" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="VDD3P3" pintype="power_in"/>
+    </net>
+    <net code="82" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(J1-D+-PadA6)">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(J1-D--PadA7)">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(U1-GPIO45)">
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="U1" pin="51" pinfunction="GPIO45" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="Net-(U1-GPIO46)">
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="U1" pin="52" pinfunction="GPIO46" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="Net-(U1-LNA_IN)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="LNA_IN" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="Net-(U1-MTDI)">
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="MTDI" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="Net-(U1-MTMS)">
+      <node ref="R53" pin="2" pintype="passive"/>
+      <node ref="U1" pin="48" pinfunction="MTMS" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="Net-(U1-XTAL_N)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="53" pinfunction="XTAL_N" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(U1-XTAL_P)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="54" pinfunction="XTAL_P" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(U3-BAT)">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="BAT" pintype="unspecified"/>
+    </net>
+    <net code="98" name="Net-(U3-KEY)">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="KEY" pintype="unspecified"/>
+    </net>
+    <net code="99" name="Net-(U3-SW)">
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="SW" pintype="unspecified"/>
+    </net>
+    <net code="100" name="Net-(U3-VIN)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VIN" pintype="unspecified"/>
+    </net>
+    <net code="101" name="Net-(U3-VOUT)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VOUT" pintype="unspecified"/>
+    </net>
+    <net code="102" name="Net-(U4-RXD)">
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="103" name="Net-(U5-VIN)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="104" name="Net-(U5-VOUT)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="105" name="Net-(U6-VCC)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(U7-STBY)">
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="STBY" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(U7-VCC)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="108" name="unconnected-(CN1-Pad3)">
+      <node ref="CN1" pin="3" pinfunction="3" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(CN1-Pad4)">
+      <node ref="CN1" pin="4" pinfunction="4" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(J4-SBU1-PadA8)">
+      <node ref="J4" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(J4-SBU2-PadB8)">
+      <node ref="J4" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(J8-DAT1-Pad8)">
+      <node ref="J8" pin="8" pinfunction="DAT1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(J8-DAT2-Pad1)">
+      <node ref="J8" pin="1" pinfunction="DAT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(J8-DET-Pad9)">
+      <node ref="J8" pin="9" pinfunction="DET" pintype="passive+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(J8-SHIELD-Pad10)">
+      <node ref="J8" pin="10" pinfunction="SHIELD" pintype="passive+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U1-SPICLK-Pad33)">
+      <node ref="U1" pin="33" pinfunction="SPICLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U1-SPICLK_N-Pad36)">
+      <node ref="U1" pin="36" pinfunction="SPICLK_N" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U1-SPICLK_P-Pad37)">
+      <node ref="U1" pin="37" pinfunction="SPICLK_P" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U1-SPICS0-Pad32)">
+      <node ref="U1" pin="32" pinfunction="SPICS0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U1-SPICS1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="SPICS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U1-SPID-Pad35)">
+      <node ref="U1" pin="35" pinfunction="SPID" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U1-SPIHD-Pad30)">
+      <node ref="U1" pin="30" pinfunction="SPIHD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U1-SPIQ-Pad34)">
+      <node ref="U1" pin="34" pinfunction="SPIQ" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U1-SPIWP-Pad31)">
+      <node ref="U1" pin="31" pinfunction="SPIWP" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U1-VDD_SPI-Pad29)">
+      <node ref="U1" pin="29" pinfunction="VDD_SPI" pintype="power_in+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U4-~{CTS}-Pad5)">
+      <node ref="U4" pin="5" pinfunction="~{CTS}" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
